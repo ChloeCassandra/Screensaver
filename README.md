@@ -8,4 +8,4 @@ others viewing the code in the editor in the dark or high contrast modes.
 I believe the white background makes the black outline of the circles stand out.
 When the circle moves, the diagonal trails that form intertwine together and they make an interesting looking texture.
 Overall, I am pleased with my final product of my screensaver.  Every time I look at it, it is very hypnotizing.
-Not only does it function as a screensaver, but I also believe it can be a great tool to provide comfort and relaxation for those under stress.
+Not only does it function as a screensaver, but I also believe it can be a great tool to provide comfort and relaxation for those under stress.  Here is the link to my screensaver: https://editor.p5js.org/ChloeCassandra/sketches/ZXO0rN6g7
